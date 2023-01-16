@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Ruby, Rails, Nuxt, Swift, GAE, etc...**
 
-- 📫 How to reach me **shiro.gomachan46@gmail.com**
+- 📫 How to reach me **shiro.gomachan46@gmail.com** or [Wantedly](https://www.wantedly.com/id/gomachan46)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
